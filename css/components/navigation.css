@@ -1,0 +1,23 @@
+.main-navigation {
+    background: #007bff;
+    color: #ffffff;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main-navigation ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.main-navigation li {
+    margin: 0 20px;
+}
+
+.main-navigation a {
+    color: white;
+}
